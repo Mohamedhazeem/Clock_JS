@@ -7,7 +7,7 @@ const totalMinutesAndSecond = 60;
 const minusDegree = -90;
 const secondToMilliSeconds = 1000;
 
-
+window.onloadstart = tik();
 
 function tik(){
     let date = new Date();
