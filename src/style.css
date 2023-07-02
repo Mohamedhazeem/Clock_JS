@@ -149,3 +149,12 @@ p{
         font-size: 3vmax;
     }
   }
+  @media (max-width: 400px) {
+    .clock{
+        width: 200px;
+        height: 200px;
+    }
+    .number{
+        font-size: 3vmax;
+    }
+  }
